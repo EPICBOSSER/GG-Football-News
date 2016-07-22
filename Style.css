@@ -1,0 +1,21 @@
+ table {
+	border-style: dotted;
+	border-width: 1px;
+}
+ 
+ td {
+	border-style: dotted;
+	border-width: 1px;
+ }
+ 
+ #Marco {
+	width: 800px;
+	height: 1000px;
+	margin: 0px auto;
+}
+
+body {
+		background: url(Images/Background.gif)  rgb(0,0,255);
+}
+
+
